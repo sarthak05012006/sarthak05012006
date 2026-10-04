@@ -133,8 +133,15 @@ I enjoy building projects that connect the **physical world with intelligent sof
 🏆 GitHub Achievements
 
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sarthak05012006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" /> </p>
+<p align="center">
 
+<a href="https://github.com/sarthak05012006"> <img src="https://img.shields.io/github/followers/sarthak05012006?style=for-the-badge&logo=github&label=Followers" /> </a>
+
+<a href="https://github.com/sarthak05012006?tab=repositories"> <img src="https://img.shields.io/badge/Public%20Repositories-Explore-181717?style=for-the-badge&logo=github" /> </a>
+
+<a href="https://github.com/sarthak05012006"> <img src="https://img.shields.io/github/stars/sarthak05012006?style=for-the-badge&logo=github&label=Total%20Stars" /> </a>
+
+</p>
 ---
 
 ## 🌐 Connect With Me
