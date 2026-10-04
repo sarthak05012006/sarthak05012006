@@ -130,12 +130,9 @@ I enjoy building projects that connect the **physical world with intelligent sof
 
 ---
 
-## 🏆 GitHub Achievements
+🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarthak05012006&theme=algolia&no-frame=true&no-bg=true&margin-w=8" />
-</p>
-
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sarthak05012006&no-frame=true&no-bg=true&column=7" alt="GitHub Achievements" /> </p>
 ---
 
 ## 🌐 Connect With Me
