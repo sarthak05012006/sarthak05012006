@@ -1,195 +1,239 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<!--                         FUTURISTIC PROFILE                              -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=SARTHAK%20DEWANGAN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ROBOTICS%20%7C%20IoT%20%7C%20DATA%20SCIENCE&descAlignY=58&descSize=18"/>
+# ⚡ SARTHAK DEWANGAN
+
+### `AI • ROBOTICS • IoT • DATA • AUTOMATION`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=I+build+things+that+move%2C+think+%26+respond.;Hardware+meets+Software.;Turning+Ideas+into+Working+Systems.;Experimenting+with+AI+%2B+Robotics+%2B+IoT.;Always+building.+Always+learning." />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems;Robotics+%2B+IoT+%2B+AI;Turning+Ideas+Into+Working+Prototypes;Hardware+Meets+Software;Always+Building+Something+New..." alt="Typing SVG" />
-
-<br><br>
-
 <a href="https://github.com/sarthak05012006">
-<img src="https://komarev.com/ghpvc/?username=sarthak05012006&label=PROFILE%20VIEWS&color=00e5ff&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=sarthak05012006&label=VISITORS&style=for-the-badge&color=00F7FF&labelColor=0D1117"/>
 </a>
 
 <a href="https://github.com/sarthak05012006?tab=followers">
-<img src="https://img.shields.io/github/followers/sarthak05012006?label=FOLLOWERS&style=for-the-badge&color=111827&logo=github"/>
+<img src="https://img.shields.io/github/followers/sarthak05012006?style=for-the-badge&label=FOLLOWERS&color=00F7FF&labelColor=0D1117&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
----
-
-# `> whoami`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                     SYSTEM PROFILE                           │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  NAME        : Sarthak Dewangan                              │
-│  ROLE        : Developer • Builder • Problem Solver          │
-│  FOCUS       : AI / Robotics / IoT / Data Science            │
-│  MODE        : Learn → Build → Break → Improve               │
-│                                                              │
-│  STATUS      : ████████████████████ ONLINE                   │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-I'm a developer who enjoys building systems where **software interacts with the real world**.
-
-My work sits at the intersection of:
-
-**🤖 Robotics** → **🌐 IoT** → **🧠 AI/ML** → **📊 Data** → **⚙️ Automation**
-
-I like taking an idea that exists only on paper and turning it into something that can actually **run, move, sense, predict or respond.**
+<br>
 
 ---
-
-# `> current_mission`
-
-```text
-[ SYSTEM INITIALIZED ]
-
-01  ▸ Exploring Machine Learning & AI
-02  ▸ Building Robotics & IoT prototypes
-03  ▸ Working with sensors & embedded systems
-04  ▸ Developing intelligent vehicle systems
-05  ▸ Exploring smart transportation
-06  ▸ Connecting hardware with software
-
-[ STATUS ] : BUILDING...
-```
-
----
-
-# `> tech_stack`
-
-### 🧠 Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,sql" />
-
-</p>
-
-### 🤖 AI / Data
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
-
-</p>
-
-### ⚙️ Hardware & IoT
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=arduino,firebase" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48"/>
-
-</p>
-
-### 🛠️ Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
-
-</p>
-
----
-
-# `> areas_of_interest`
 
 <div align="center">
 
-|     🤖 ROBOTICS    |       🌐 IoT      |      🧠 AI / ML     |
-| :----------------: | :---------------: | :-----------------: |
-|       Sensors      |  Embedded Systems |   Machine Learning  |
-|       Motors       |     Automation    |    Data Analysis    |
-|    Servo Systems   | Real-time Systems |      Prediction     |
-| Autonomous Systems | Connected Devices | Intelligent Systems |
+### `SYSTEM ONLINE`
 
-|  🚗 SMART VEHICLES |   🚆 SMART TRANSPORT   | 💻 SOFTWARE |
-| :----------------: | :--------------------: | :---------: |
-|    Road Analysis   |   Railway Automation   |    Python   |
-| Vehicle Monitoring |     Safety Systems     |   C / C++   |
-|  Tyre Intelligence | Intelligent Operations |     Java    |
-|      Telemetry     |       Automation       |     SQL     |
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   USER        →  SARTHAK DEWANGAN                            │
+│   ROLE        →  DEVELOPER / BUILDER                         │
+│   DOMAIN      →  AI × ROBOTICS × IoT                         │
+│   INTEREST    →  INTELLIGENT SYSTEMS                         │
+│   LOCATION    →  INDIA                                       │
+│                                                              │
+│   CURRENT STATE → ████████████████████ 100% ONLINE           │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
 
 </div>
 
 ---
 
-# `> projects`
+## 🧠 `ABOUT_ME`
 
-### 🚆 Railway Automation
+I'm a developer who enjoys working where **code meets the physical world**.
 
-**Automatic ACP Reset & Monitoring System**
+I build projects involving **Robotics, IoT, Artificial Intelligence, Data Science and Automation** — from small experiments to larger systems combining hardware and software.
 
-A hardware-focused concept exploring automatic reset mechanisms for emergency chain-pull systems and railway safety.
+My favorite part isn't just writing code.
+
+It's watching an idea go from:
+
+```text
+💡 IDEA
+   ↓
+🧠 LOGIC
+   ↓
+💻 CODE
+   ↓
+🔌 HARDWARE
+   ↓
+🤖 WORKING SYSTEM
+```
+
+> **If I can imagine it, I want to try building it.**
+
+---
+
+## ⚡ `MY_CORE`
+
+<div align="center">
+
+|    🤖 ROBOTICS   |      🧠 AI / ML     |       🌐 IoT      |    📊 DATA    |
+| :--------------: | :-----------------: | :---------------: | :-----------: |
+|      Sensors     |   Machine Learning  |   ESP / Arduino   |     Pandas    |
+|      Motors      |      Prediction     |     Automation    |    Analysis   |
+|   Servo Systems  |   Computer Vision   |     Monitoring    | Visualization |
+| Embedded Control | Intelligent Systems | Connected Devices |   Processing  |
+
+</div>
+
+---
+
+## 🧰 `TECH_STACK`
+
+### `LANGUAGES`
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,sql" />
+</p>
+
+### `AI • DATA • COMPUTING`
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48"/>
+</p>
+
+### `HARDWARE • IoT`
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=arduino,firebase" />
+</p>
+
+### `TOOLS`
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
+</p>
+
+---
+
+# 🚀 `WHAT_I_BUILD`
+
+### 🚆 01 — SMART RAILWAY SYSTEMS
+
+Exploring automation and intelligent mechanisms for railway safety and operations.
+
+**Focus**
+
+```text
+Sensors → Detection → Decision → Actuation
+```
 
 `ESP32` `Servo` `Sensors` `Embedded Systems`
 
 ---
 
-### 🚗 Intelligent Road & Vehicle Analysis
+### 🚗 02 — INTELLIGENT VEHICLE SYSTEMS
 
-A system combining **road-condition analysis, vehicle information and tyre-pressure intelligence** to help understand changing driving conditions.
+Working with road-condition analysis, vehicle information and tyre intelligence to understand how changing road conditions can affect vehicle safety.
 
-`Python` `Machine Learning` `Computer Vision` `Data Analysis`
+```text
+ROAD DATA
+    ↓
+CONDITION ANALYSIS
+    ↓
+VEHICLE + TYRE DATA
+    ↓
+INTELLIGENT RECOMMENDATION
+```
+
+`Python` `ML` `Data Analysis` `Computer Vision`
 
 ---
 
-### 🤖 Robotics & Automation
+### 🤖 03 — ROBOTICS & AUTOMATION
 
-Experimental robotics projects involving:
+Building experimental systems using:
 
 * Ultrasonic sensors
 * Servo motors
 * DC motors
 * Motor drivers
+* Embedded controllers
 * Automated interaction
-* Embedded control systems
 
-`Arduino` `C/C++` `Sensors` `Motors`
+```text
+SENSE → THINK → ACT
+```
 
 ---
 
-### 🎮 Just-for-Fun Builds
+### 🎮 04 — EXPERIMENTAL / FUN PROJECTS
 
 > **And sometimes… just build something because it's fun.**
 
-Not every project needs to become a startup, a resume bullet, or a research paper.
+Not everything has to be a startup.
 
-Some projects exist simply because I wanted to know:
+Not everything has to go on a resume.
 
-**"Can I actually build this?"**
+Some projects are built because a random thought turns into:
 
-And that's often where the most interesting experiments begin.
+**“Wait… can I actually make that?”**
+
+Those experiments are often the most fun ones.
 
 ---
 
-# `> github_metrics`
+# 🔬 `CURRENTLY_EXPLORING`
+
+```text
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│  [01] Machine Learning & AI                  ▓▓▓▓▓ │
+│  [02] Robotics & Embedded Systems             ▓▓▓▓  │
+│  [03] IoT & Automation                       ▓▓▓▓  │
+│  [04] Computer Vision                        ▓▓▓   │
+│  [05] Intelligent Vehicle Systems            ▓▓▓   │
+│  [06] Smart Transportation                   ▓▓▓   │
+│  [07] Hardware × Software Integration        ▓▓▓▓  │
+│                                                    │
+└────────────────────────────────────────────────────┘
+```
+
+---
+
+# 📡 `PROJECT_PHILOSOPHY`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sarthak05012006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&rank_icon=github" height="180"/>
+### `DON'T JUST LEARN TECHNOLOGY.`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak05012006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" height="180"/>
+# **BUILD WITH IT.**
+
+<br>
+
+```text
+LEARN
+  ↓
+EXPERIMENT
+  ↓
+FAIL
+  ↓
+DEBUG
+  ↓
+BUILD AGAIN
+  ↓
+UNDERSTAND
+```
+
+</div>
+
+---
+
+# 📊 `GITHUB_ANALYTICS`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sarthak05012006&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&bg_color=00000000&rank_icon=github" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak05012006&layout=compact&theme=transparent&hide_border=true&title_color=00F7FF&text_color=C9D1D9&bg_color=00000000" width="42%"/>
 
 </div>
 
@@ -197,23 +241,23 @@ And that's often where the most interesting experiments begin.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sarthak05012006&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+<img src="https://streak-stats.demolab.com?user=sarthak05012006&theme=transparent&hide_border=true&background=00000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280" width="70%"/>
 
 </div>
 
 ---
 
-# `> contribution_matrix`
+# 📈 `ACTIVITY_STREAM`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak05012006&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak05012006&bg_color=00000000&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=Sarthak's%20Development%20Activity" width="95%"/>
 
 </div>
 
 ---
 
-# `> connect`
+# 🌐 `CONNECT`
 
 <div align="center">
 
@@ -231,24 +275,31 @@ And that's often where the most interesting experiments begin.
 
 </div>
 
+<br>
+
+<div align="center">
+
+### `OPEN TO → LEARNING • BUILDING • COLLABORATING`
+
+</div>
+
 ---
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║       BUILD  •  BREAK  •  LEARN  •  REPEAT          ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   "The best way to learn how something works             ║
+║    is to try building it yourself."                      ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-### `SYSTEM STATUS: ONLINE ⚡`
-
-**Turning curiosity into prototypes.**
+### ⚡ BUILD SOMETHING. BREAK SOMETHING. LEARN SOMETHING.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:203a43,100:0D1117&height=130&section=footer"/>
 
 </div>
